@@ -3,12 +3,6 @@
 react-crud-admin: cadastro de Administradores(cadastro de outros admins e funcionários) e Funcionários(apenas vê os usuários cadastrados) com Java Spring Security e React.
 
 
-..
-
-
-
-
-..
 
 
 
