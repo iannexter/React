@@ -7,11 +7,13 @@ const App = () =>{
 
   return(
 
-    <p className="bg-black p-6">
+    <p className="bg-black p-6 flex gap-2">
       
 
           {/* //aperte ctrl + . para inportar o componente  */}
-          <Input />
+          <Input placeholder="E-mail" type="text"/>
+
+          {/* <Input placeholder="Senha" type="password"/> */}
 
     </p>
 

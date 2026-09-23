@@ -6,15 +6,17 @@ import App from "./App.tsx";
 import Header from "./components/Header.tsx";
 
 import Input from "./components/Input.tsx";
+import Login from "./Login.tsx";
 
 //import { Header } from './Header.tsx'
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
-    <Header />
+    
+    {/* <Header /> */}
 
-    <App />
+    <Login />
 
-
+    {/* <App /> */}
   </StrictMode>,
 );
